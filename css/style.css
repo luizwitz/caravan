@@ -1,6 +1,10 @@
 body {
+    /* just for dev (start) */
     background-color: lightslategray;
     height: 2500px;
+    /* just for dev (end) */
+
+    padding-top: 76px;
 }
 
 .box-shadow {
