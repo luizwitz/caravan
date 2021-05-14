@@ -1,6 +1,6 @@
 body {
     /* just for dev (start) */
-    background-color: lightslategray;
+    /* background-color: lightslategray; */
     height: 2500px;
     /* just for dev (end) */
 
@@ -14,6 +14,11 @@ body {
 #home-quote {
     background: url('../img/bg-quote.jpg') center center;
     background-size: cover;
+}
+
+#faq button {
+    font-size: 1.25rem;
+    font-weight: 300;
 }
 
 @media (max-width: 767px) {
