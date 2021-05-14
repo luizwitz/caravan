@@ -10,3 +10,20 @@ body {
 .box-shadow {
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05), 0 4px 8px 0 rgba(0, 0, 0, 0.05);
 }
+
+#home-quote {
+    background: url('../img/bg-quote.jpg') center center;
+    background-size: cover;
+}
+
+@media (max-width: 767px) {
+    /* Navbar mobile (start) */
+    body {
+        padding-top: 0;
+    }
+
+    .fixed-top {
+        position: relative;
+    }
+    /* Navbar mobile (end) */
+}
