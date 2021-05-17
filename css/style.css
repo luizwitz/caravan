@@ -21,6 +21,14 @@ body {
     font-weight: 300;
 }
 
+.hover-underline:hover {
+    text-decoration: underline !important;
+}
+
+.social-button {
+    width: 120px;
+}
+
 @media (max-width: 767px) {
     /* Navbar mobile (start) */
     body {
