@@ -1,7 +1,7 @@
 body {
     /* just for dev (start) */
     /* background-color: lightslategray; */
-    height: 2500px;
+    /* height: 2500px; */
     /* just for dev (end) */
 
     padding-top: 76px;
@@ -27,6 +27,11 @@ body {
 
 .social-button {
     width: 120px;
+}
+
+th,
+td {
+    padding: 12px !important;
 }
 
 @media (max-width: 767px) {
