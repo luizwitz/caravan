@@ -29,6 +29,10 @@ body {
     width: 120px;
 }
 
+.contact-social-button {
+    width: 40%;
+}
+
 th,
 td {
     padding: 12px !important;
