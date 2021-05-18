@@ -34,6 +34,11 @@ td {
     padding: 12px !important;
 }
 
+li.list-group-item {
+    padding: 1rem;
+    background-color: inherit;
+}
+
 @media (max-width: 767px) {
     /* Navbar mobile (start) */
     body {
